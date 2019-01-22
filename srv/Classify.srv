@@ -1,0 +1,3 @@
+float64[] feature_vector   # Combined feature vector made from grasps i, j to be classified
+---
+uint8 result               # Class returned by the classifier

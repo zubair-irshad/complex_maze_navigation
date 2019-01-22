@@ -1,0 +1,9 @@
+<launch>
+
+  <node name="image_node" pkg="irshad_final" type="image_node.py" output="screen">
+  </node>
+
+  <node name="go_To_Goal" pkg="irshad_final" type="goToGoal.py" output="screen">
+  </node>
+
+</launch>
