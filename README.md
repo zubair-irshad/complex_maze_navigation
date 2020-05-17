@@ -1,4 +1,5 @@
-# navigate_to_goal
+Complex Maze Navigation using Image Classification
+---------------------------------------------------
 ROS based turtlebot3 mobile robot navigator using sign recognition based on image classification. 
 
 ROS package 'navigate_to_goal' contains five nodes. 
